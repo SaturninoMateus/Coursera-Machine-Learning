@@ -1,4 +1,4 @@
-# Coursera Machine Learning Assigments
+# Coursera Machine Learning Assigments (Matlab/Octave)
 
 These are the programming assignments from Coursera's Machine Learning course taught by Andrew Ng.
 
